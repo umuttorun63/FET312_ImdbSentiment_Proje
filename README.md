@@ -8,6 +8,6 @@ https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-review
 ---
 ### Proje Sunum Video
 
-https://youtu.be/_dw3jTO8BXw
+https://www.youtube.com/watch?v=j3nQIM03Xfs
 ---
 
